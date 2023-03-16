@@ -29,6 +29,7 @@ sns.set(style="whitegrid", color_codes=True)
   9. JP_Sales = ยอดขายในญี่ปุ่น
   10. Other_Sales = ยอดขายในภูมิภาคอื่น ๆ
   11. Global_Sales = ยอดขายรวมทั่วโลก
+
 และมีจำนวนข้อมูลทั้งหมด 16,598 row
 
 ```python
