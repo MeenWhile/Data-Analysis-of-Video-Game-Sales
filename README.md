@@ -125,6 +125,8 @@ data.isnull().sum()
 
 จากนั้น เราได้ทำการเปรียบเทียบข้อมูลของ column Year กับ column Publisher ก่อนและหลัง fill data เพื่อตรวจสอบว่าข้อมูลก่อนและหลังการแก้ไข มีการเปลี่ยนแปลงมากจนเกินไปหรือไม่ ซึ่งจากผลลัพธ์ที่ได้นั้น เรามองว่าการเปลี่ยนแปลงข้อมูลใน column ทั้งสองนี้ อยู่ในระดับที่เหมาะสม
 
+![image](https://user-images.githubusercontent.com/125643589/225676591-a08cee66-d10c-41d9-9c2d-251a9bd95d5c.png)
+
 ```python
 #check adjust data of column "Publisher"
 print('Publisher Count:')
