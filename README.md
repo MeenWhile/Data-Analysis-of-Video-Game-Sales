@@ -1,6 +1,6 @@
 # Data Analysis of Video Game Sales
 ## 1. Import Data & Python Packages
-เริ่มต้น เราได้ import library ที่จำเป็นในการวิเคราห์ข้อมูลซึ่งประกอบด้วย
+เริ่มต้น เราได้ import library ที่จำเป็นในการวิเคราะห์ข้อมูลซึ่งประกอบด้วย
   1. NumPy
   2. Pandas
   3. Matplotlib
